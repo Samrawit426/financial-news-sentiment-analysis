@@ -1,0 +1,12 @@
+# Ignore data files
+data/*
+!data/.gitkeep
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+
+# Ignore outputs
+outputs/
